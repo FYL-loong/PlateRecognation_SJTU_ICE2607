@@ -1,0 +1,2 @@
+# PlateRecognation_SJTU_ICE2607
+ICE2607视频多媒体检索实践大作业，车牌的字符分割与识别
